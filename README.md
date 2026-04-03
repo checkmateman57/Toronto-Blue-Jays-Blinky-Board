@@ -7,7 +7,8 @@ I created a blinky board as per the starter guide's manual, and have the custom 
 
 
 # Components
-<img width="199" height="89" alt="image" src="https://github.com/user-attachments/assets/823cf011-29eb-4fca-8ceb-6c21ef168d7b" />
+<img width="207" height="106" alt="image" src="https://github.com/user-attachments/assets/33fc6b1e-afc5-4545-bda7-8ba8a4456188" />
+
 
 <img width="720" height="409" alt="image" src="https://github.com/user-attachments/assets/ae83b84f-1837-47e6-b78b-0b83cbe48970" />
 
